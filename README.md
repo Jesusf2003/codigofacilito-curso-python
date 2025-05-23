@@ -1,8 +1,8 @@
 # Repasando el curso "Python Profesional"
 
-## Módulo 1
+## Módulo 1 - Introducción
 
-> Recordando las bases de Python:
+Recordando las bases de Python:
 
     - Comentarios
     - Constantes
@@ -10,3 +10,10 @@
     - Operadores relacionales
     - Declarar variables
     - Declarar input y output
+
+## Módulo 2 - Listas
+
+Manejo de listas en Python:
+
+    - Listas e índices
+    - Sublistas
